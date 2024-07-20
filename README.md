@@ -27,3 +27,6 @@ The deep learning model used in this project is a bidirectional LSTM with dropou
 - Dropout Layer
 - Bidirectional LSTM Layer
 - Dense Layer with Sigmoid Activation
+
+
+
